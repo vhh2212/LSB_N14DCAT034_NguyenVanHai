@@ -1,0 +1,9 @@
+C:\Users\VANHAI\C#\LSB_NguyenVanHai\LSB_NguyenVanHai\bin\Debug\LSB_NguyenVanHai.exe.config
+C:\Users\VANHAI\C#\LSB_NguyenVanHai\LSB_NguyenVanHai\bin\Debug\LSB_NguyenVanHai.exe
+C:\Users\VANHAI\C#\LSB_NguyenVanHai\LSB_NguyenVanHai\bin\Debug\LSB_NguyenVanHai.pdb
+C:\Users\VANHAI\C#\LSB_NguyenVanHai\LSB_NguyenVanHai\obj\Debug\LSB_NguyenVanHai.csprojResolveAssemblyReference.cache
+C:\Users\VANHAI\C#\LSB_NguyenVanHai\LSB_NguyenVanHai\obj\Debug\LSB_NguyenVanHai.Form1.resources
+C:\Users\VANHAI\C#\LSB_NguyenVanHai\LSB_NguyenVanHai\obj\Debug\LSB_NguyenVanHai.Properties.Resources.resources
+C:\Users\VANHAI\C#\LSB_NguyenVanHai\LSB_NguyenVanHai\obj\Debug\LSB_NguyenVanHai.csproj.GenerateResource.Cache
+C:\Users\VANHAI\C#\LSB_NguyenVanHai\LSB_NguyenVanHai\obj\Debug\LSB_NguyenVanHai.exe
+C:\Users\VANHAI\C#\LSB_NguyenVanHai\LSB_NguyenVanHai\obj\Debug\LSB_NguyenVanHai.pdb
